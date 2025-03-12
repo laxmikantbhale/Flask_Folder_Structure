@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+flask-jwt-extended
+passlib
+flask-bcrypt
+email-validator
